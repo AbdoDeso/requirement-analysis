@@ -31,3 +31,7 @@
 #### Use Case Diagrams are visual representations in UML that show the interactions between users (actors) and a system to achieve specific goals.  
 #### They help clarify system functionality, user roles, and the relationships between different use cases.  
 #### Benefits include improved communication among stakeholders, easier identification of requirements, and a clear overview of system behavior from a user perspective.
+
+# Acceptance Criteria
+
+#### Acceptance Criteria define the specific conditions a system must meet to be accepted by stakeholders, ensuring clarity on expected outcomes. They help validate that the developed solution meets user needs and business goals. By setting clear boundaries, they reduce ambiguity and prevent scope creep during development. Acceptance Criteria also guide testing efforts, making it easier to verify functionality and ensure quality. Ultimately, they foster agreement between developers and stakeholders, leading to successful project delivery.
